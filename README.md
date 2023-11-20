@@ -21,27 +21,20 @@ The project is divided into two main files:
 - C++ compiler (e.g., g++, clang++)
 - Basic knowledge of terminal or command prompt usage
 
-### Compiling and Running the Code
-To compile and run the project, use the following command in a terminal or command prompt where your C++ compiler is accessible:
 
-```bash
-g++ main.cpp -o BitRepresentation
-./BitRepresentation
-
-
-##Usage
+## Usage
 
 After running the executable, the program demonstrates the functionalities of the BitRepresentation class, such as setting bits, converting to binary and hexadecimal formats, and retrieving the numerical value.
 
-##Author
+## Author
 
 Yusuf Erkam Köksal
 
-##Contact
+## Contact
 
 Email: yusuferkamkoksal@outlook.com
 GitHub: www.github.com/yerkamkoksal/
 
-##License
+## License
 
 This project is open source and available under the MIT License.
